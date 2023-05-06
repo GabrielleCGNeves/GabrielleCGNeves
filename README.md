@@ -1,7 +1,7 @@
 ### Gabrielle Carvalho Goncalves das Neves
 
 ---
->Hello World! I'm a Software Development student, I am current learning developing algorithms using languages such as Python, PHP, Javascript, C++ and Java. Additionally, I have experience in developing Mobile applications using the Android Studio platform and I am current learning React! 
+>Hello World! I'm a Software Development student, I am current learning developing algorithms using languages such as Python, PHP, Javascript, C++ and Java. Additionally, I also have some experience in developing Mobile applications using the Android Studio platform and I now i am learning React Native! 
 ---
 
 
