@@ -1,7 +1,6 @@
 <div align='center'>
 
-#🟣 Gabrielle C G Neves 🟣
-
+<h1>🟣 Gabrielle C G Neves 🟣</h1>
 <img src = "https://files.catbox.moe/iu7k78.png" height = "165em" >
 </div>
 
@@ -14,15 +13,15 @@ Hello! I'm a Cross-platform Software Development student current learning Python
 
 <div align='center'>
 
-##📊 Stats
+<h2>📊 Stats</h2>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=gabriellecgneves&show_icons=true&theme=radical" height = "165em">  
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellecgneves&layout=compact&theme=radical" height = "165em">
+<img src = "https://github-readme-stats.vercel.app/api?username=gabriellecgneves&show_icons=true&theme=radical" height = "140em">  
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellecgneves&layout=compact&theme=radical" height = "140em">
 </div>
 
 <div align='center'>
 
-##🏆 Trophies
+<h2>🏆 Trophies</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielleCGNeves&theme=radical&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
