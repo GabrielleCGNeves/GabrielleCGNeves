@@ -6,7 +6,7 @@
 
 ---
 ```Markdown 
-Hello! I'm a Cross-platform Software Development student current learning Python, Flutter, Javascript, Java and React.
+Hello! I'm a Cross-platform Software Development student current learning Python, Javascript, Java and React.
 ```
 ---
 
@@ -23,7 +23,7 @@ Hello! I'm a Cross-platform Software Development student current learning Python
 
 <h2>🏆 Trophies</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielleCGNeves&theme=radical&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielleCGNeves&theme=radical&row=2&column=4&no-frame=true)]
 
 </div>
 
